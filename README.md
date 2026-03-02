@@ -12,3 +12,8 @@ This project analyzes US airline passenger demand and average airfares from 1997
 
 ### Data Collection
 This data was collected on Kaggle. It can be found here: [Kaggle US Airline Flight Routes and Fares](https://www.kaggle.com/datasets/amitzala/us-airline-flight-routes-and-fares?)
+
+### Dashboard Preview 
+The full Tableau dashboard can be found [here](https://public.tableau.com/app/profile/karl.r6258/viz/airfare_17721211767540/Dashboard1)
+
+ 
