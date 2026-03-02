@@ -1,4 +1,4 @@
-# Airfare_vs_PassengerRate
+# Airfare vs PassengerRate
 
 ## Table of Contents
 - [Project Overview](#background-and-overview)
