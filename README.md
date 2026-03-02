@@ -1,4 +1,4 @@
-# Airfare vs PassengerRate
+# Airfare Price and Passenger Rate Analysis
 
 ## Table of Contents
 - [Project Overview](#background-and-overview)
