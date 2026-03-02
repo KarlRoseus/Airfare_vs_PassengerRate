@@ -16,7 +16,7 @@ This data was collected on Kaggle. It can be found here: [Kaggle US Airline Flig
 ### Dashboard Preview 
 
 Table that shows YOY percent changes in average fare rates and passenger change
-![YOY Table](Elements/YOY_Tanle.png)
+![YOY Table](Elements/YOY_Table.png)
 
 Area graph that shows the results 
 ![area_graphl](Elements/Area_Graph.png)
