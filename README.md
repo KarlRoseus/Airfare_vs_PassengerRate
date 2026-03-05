@@ -1,7 +1,7 @@
 # US Airfare Price and Passenger Rate Analysis (1997-2023)
 
 ## Table of Contents
-- [Business Questions](#buisness-questions)
+- [Business Questions](#business-questions)
 - [Project Overview](#project-overview)
 - [Summary of Insights](#summary-of-insights)
 - [Limitations](#limitations)
