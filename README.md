@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Business Questions](#buisness-questions)
-- [Project Overview](#projecy-overview)
+- [Project Overview](#project-overview)
 - [Summary of Insights](#summary-of-insights)
 - [Limitations](#limitations)
 - [Recommendations](#Recommendations)
